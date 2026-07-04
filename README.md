@@ -53,5 +53,5 @@ The database structure relies on standard PostgreSQL constraints and relational 
 
 ---
 **Developed by Chetan Kumar D**  
-*Data & Strategy Analyst | Flights BI Specialist*  
+*Data & Strategy Analyst | BI Specialist*  
 [LinkedIn Portfolio](https://linkedin.com/in/chetan-dasadi) • [Email Contact](mailto:chetan.dasadi@gmail.com)
